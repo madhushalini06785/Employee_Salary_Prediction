@@ -1,9 +1,6 @@
 # Employee_Salary_Prediction
 A machine learning project that predicts employee salaries based on features like experience, education, job role,etc. Trained using Random Forest on structured data to estimate monthly salary.
 
-# Employee Salary Prediction using Machine Learning
-This project predicts the monthly salary of employees based on their demographics, work behavior, and performance metrics using multiple machine learning models. It features a clean and interactive Flask web app for real-time predictions.
-
 # Project Overview
 Goal: Predict employee salary using features such as age, education, department, experience, work hours, satisfaction score, and more.
 
@@ -45,8 +42,8 @@ HTML5, CSS3
 
 # How to Run Locally
 # Clone the repo
-git clone https://github.com/your-username/employee-salary-prediction.git
-cd employee-salary-prediction
+git clone https://github.com/madhushalini06785/Employee_Salary_Prediction
+cd Employee_Salary_Prediction
 
 # Install dependencies
 pip install -r requirements.txt
