@@ -71,4 +71,4 @@ Estimated Monthly Salary: ₹42,000.00
 📬 Contact
 Name: Madhu Shalini Kanneboina
 Email:kanneboina.madhushalini@gmail.com.com
-LinkedIn: linkedin.com/in/your-profile
+LinkedIn: http://www.linkedin.com/in/kanneboina-madhushalini-8884632b6
