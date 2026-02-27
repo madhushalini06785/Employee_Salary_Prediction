@@ -66,7 +66,7 @@ Visit the app at: http://127.0.0.1:5000
     └── index.html               # Web interface
 
 # Sample Prediction Output
-Estimated Monthly Salary: ₹42,000.00
+Estimated Monthly Salary: ₹42,000,00.00
 
 📬 Contact
 Name: Madhu Shalini Kanneboina
