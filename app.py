@@ -43,4 +43,5 @@ def predict():
     return render_template('index.html', prediction_text=f"Estimated Monthly Salary: ₹{round(prediction, 2)}")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, use_reloader=False)
+
