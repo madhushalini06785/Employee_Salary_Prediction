@@ -52,8 +52,8 @@ pip install -r requirements.txt
 python app.py
 Visit the app at: http://127.0.0.1:5000
 
-📁 Folder Structure
-2.salary_prediction_project/
+# 📁 Folder Structure
+# 2.salary_prediction_project/
 ├── app.py                       # Flask app
 ├── ml.py                        # ML training script
 ├── dataset.csv                  # Dataset
